@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Cowboy_bebop",
+			"Path": "..\\Source\\Cowboy_bebop.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Cowboy_bebopEditor",
+			"Path": "..\\Source\\Cowboy_bebopEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\github\\cowboy_bebop\\cowboy_bebop\\source\\cowboy_bebop\\c_spacespawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\cowboy_bebop\\cowboy_bebop\\intermediate\\build\\win64\\x64\\cowboy_bebopeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "e:\\github\\cowboy_bebop\\cowboy_bebop\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cowboy_bebop\\definitions.cowboy_bebop.h",
+            "e:\\github\\cowboy_bebop\\cowboy_bebop\\source\\cowboy_bebop\\c_spacespawn.h",
+            "e:\\github\\cowboy_bebop\\cowboy_bebop\\intermediate\\build\\win64\\unrealeditor\\inc\\cowboy_bebop\\uht\\c_spacespawn.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
